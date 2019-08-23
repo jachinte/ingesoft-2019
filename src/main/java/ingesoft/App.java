@@ -5,7 +5,7 @@ package ingesoft;
 
 public class App {
     public String getGreeting() {
-        return null;
+        return "Hello world.";
     }
 
     public static void main(String[] args) {
